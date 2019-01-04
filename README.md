@@ -15,3 +15,5 @@ This is just a simple JavaScript code to find out the Length of all the YouTube 
 7. Now we write a function to print out the total number of hour, minutes and seconds of all the youtube video on that page.
 8. At last we run the Function to print out the time in the console.
 
+<img src="https://i.imgur.com/IhO1Qxp.png" width="830" height="300">
+
