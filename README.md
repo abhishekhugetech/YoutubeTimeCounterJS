@@ -5,7 +5,7 @@ This is just a simple JavaScript code to find out the Length of all the YouTube 
 
 1. Select all the span that contains the duration of the Video.
 2. Initialize three arrays :<br>
-  - One for string the string of span.<br>
+  - One for storing the string of span.<br>
   - One for storing the string without empty space.<br>
   - One for storing the seconds of the video which was found out after calculating.<br>
 3. Run for loop to save the times got from the span to the arrayOfNum Array.
