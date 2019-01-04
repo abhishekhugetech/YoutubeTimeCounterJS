@@ -17,3 +17,8 @@ This is just a simple JavaScript code to find out the Length of all the YouTube 
 
 <img src="https://i.imgur.com/IhO1Qxp.png" width="830" height="300">
 
+# How to Use this Script
+
+Go to any youtube page and then go to the console section in the Developer Tools window. Copy each and every line of code inside the Javascript file and paste it inside the console and press Enter key on your keyboard.
+
+<img src="https://i.imgur.com/otsLq7v.png">
